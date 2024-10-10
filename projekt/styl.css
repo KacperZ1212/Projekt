@@ -1,0 +1,31 @@
+
+
+
+body
+{
+background-color: #343a40;
+color: white;
+}
+
+#navbarNav
+{
+background-color:#64686d;
+}
+
+.kolumn {
+    min-height: 350px; 
+}
+
+.btn
+{
+    color: white;
+}
+
+.btn-outline {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-outline:hover {
+    background-color: #343a40;
+}
+
